@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943658880485",
+    "project_id": "coordinator-cf1aa",
+    "storage_bucket": "coordinator-cf1aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943658880485:android:bf719e239f0833f776730c",
+        "android_client_info": {
+          "package_name": "com.example.coordinator_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943658880485-lffjjpuiboo3jv5tvmgvviab2otnl9bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNyP-bJCODIjFKbO352gxC2XN6YBJxcRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943658880485-lffjjpuiboo3jv5tvmgvviab2otnl9bj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
